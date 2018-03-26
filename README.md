@@ -23,7 +23,7 @@
 
 ## 流程图
 
-![image](https://raw.githubusercontent.com/1664451365/liwei/master/QQ%E6%88%AA%E5%9B%BE20180326134756.png 
+![Image text](https://raw.githubusercontent.com/1664451365/liwei/master/QQ%E6%88%AA%E5%9B%BE20180326134756.png 
 
 )
 
